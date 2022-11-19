@@ -1,10 +1,11 @@
 # Temperature-Light-Controlled-Home-Automation
 
+![nnss](https://user-images.githubusercontent.com/118633170/202870366-ffd9c678-3a19-4f70-a45f-fe82bcc3f75b.png)
+
+
 Here i use ldr sensor & dht11 Sensors to control the light , Fan Also How The Feed In I2C Lcd Display
 
 If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
-
-
 
 Please use the following link to register an account in JLCPCB
 
