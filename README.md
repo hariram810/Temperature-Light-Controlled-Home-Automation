@@ -5,15 +5,19 @@
 
 Here i use ldr sensor & dht11 Sensors to control the light , Fan Also How The Feed In I2C Lcd Display
 
-If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com/RNA) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
-Please use the following link to register an account in [JLCPCB](https://jlcpcb.com)
+[JLCPCB](https://jlcpcb.com/RNA)
+
+
+Please use the following link to register an account in [JLCPCB](https://jlcpcb.com/RNA)
 
 https://jlcpcb.com/RNA
 
 
 Pcb Manufacturing
 
+----------
 
 2 layers
 
@@ -21,18 +25,25 @@ Pcb Manufacturing
 
 6 layers
 
+jlcpcb.com/RNA
+
+
 
 PCBA Services
 
-[JLCPCB](https://jlcpcb.com) have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
+[JLCPCB](https://jlcpcb.com/RNA) have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
-Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com), giving you peace-of-mind that you won't run into any last minute part shortages.
+Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com/RNA), giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
+
+
 
 3d printing
 
-SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out [JLCPCB](https://jlcpcb.com) 3D Printing servies
+-------------------
 
-[JLCPCB](https://jlcpcb.com) 3D Printing starts at $1 &Get $54 Coupons for new users
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](https://jlcpcb.com/RNA) better companion among other manufactures try out [JLCPCB](https://jlcpcb.com/RNA) 3D Printing servies
+
+[JLCPCB](https://jlcpcb.com/RNA) 3D Printing starts at $1 &Get $54 Coupons for new users
 
 Home automation or domotics is building automation for a home, called a smart home or smart house. A home automation system will monitor and/or control home attributes such as lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems. When connected with the Internet, home devices are an important constituent of the Internet of Things ("IoT").
 
